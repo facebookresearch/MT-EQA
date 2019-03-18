@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb_checkpoints
+data/eqa_v1
+data/SUNCGdata
+data/SUNCGtoolbox
+pyutils/House3D/renderer/vendor/pybind11
