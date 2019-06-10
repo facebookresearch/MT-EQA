@@ -1,0 +1,3 @@
+[submodule "pyutils/House3D"]
+	path = pyutils/House3D
+	url = https://github.com/lichengunc/House3D
